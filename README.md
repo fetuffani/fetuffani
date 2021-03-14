@@ -61,7 +61,23 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div></td></tr></table>  
-<br/>  
+
+<br/>
+
+### Engineering skills
+
+<div align="center">  
+<img style="margin: 10px" src="https://img2.gratispng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="Solidworks" height="50" />  
+<img style="margin: 10px" src="https://inceptum-stor.icons8.com/yxy40iEo6won/inventor-be5aeafb23.png" alt="Inventor" height="50" />  
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/720253203833487360/E4jA7xy5_400x400.jpg" alt="Fusion360" height="50" />   
+<img style="margin: 10px" src="https://logosmarcas.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="ANSYS" height="50" />
+<img style="margin: 10px" src="https://www.ozeninc.com/wp-content/uploads/2017/09/Discovery-Live-Logo-Image.png" alt="Discovery SpaceClaim" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MatLAB" height="50" />    
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" height="50" />      
+<img style="margin: 10px" src="https://previews.123rf.com/images/starserfer/starserfer1609/starserfer160900002/64524472-3d-printer-line-style-icon.jpg" alt="3D Printing Prototype" height="50" />  
+
+</div>
 
 
 ## Connect with me  
