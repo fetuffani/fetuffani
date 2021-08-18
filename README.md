@@ -11,7 +11,7 @@
 - 🎓 Non-stop learner
 - ❓ Ask me about anything and we may end talking for hours  
 - ⚡ Fun fact: I use tabs over spaces  
-- 💸 [Calculadora Imposto de renda](https://calcfin.vercel.app/)
+- 💸 [Income Tax Calculator](https://calcfin.vercel.app/) (Calculadora Imposto de Renda)
   
 
 <br/>  
