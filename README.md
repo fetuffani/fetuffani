@@ -96,7 +96,7 @@ Feel free to contact me, ask questions, talk, ask for advices or just to say hel
 <div align="center">
 <a href="https://github.com/fetuffani" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/fetuffani" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://fetuffani.vercel.app/" target="_blank"><img src=https://img.shields.io/badge/Personalpage-%2324292e.svg?&style=for-the-badge&logoColor=white&color=indianred alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://fetuffani.github.io/" target="_blank"><img src=https://img.shields.io/badge/Personalpage-%2324292e.svg?&style=for-the-badge&logoColor=white&color=indianred alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fetuffani&&style=flat-square" align="center" />
