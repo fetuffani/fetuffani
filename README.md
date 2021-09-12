@@ -8,77 +8,88 @@
 
 - 💼 Currently working as a data scientist and BI  
 - :video_game: Retired game/server designer at [SphereServer](https://github.com/Sphereserver)
+- 📝 Blogging and 📷 Vlogging (Both TBD)
 - 🎓 Non-stop learner
 - ❓ Ask me about anything and we may end talking for hours  
 - ⚡ Fun fact: I use tabs over spaces  
 - 💸 [Income Tax Calculator](https://calcfin.vercel.app/) (Calculadora Imposto de Renda)
-  
+- 💸 [My front page](https://fetuffani.github.io/) (and some of my publications)
 
-<br/>  
+------
+
+### Brief of me
+
+If I could be described by a single characteristic, I would choose the Non-Stop Learner from above. There are many things that I'm curious about and learning about that is not described below, such as Reading, Writing, Storytelling, Philosophy, Psychiatry/Neurology, Space, Sciences, practicing high adrenalin activities and many more (that we can talk about).
+
+Besides that, I've been about 17 years (as from 2021) learning Dev and Engineering Skills (listed below). My passion was always to create and amuse. This long journey started sometime around 2004 on my 12yo when I had my first contact with game development which was an MMO. From that I've developed many Dev and creative skills that makes up a good portion of my Skill Set.
+
+My dad worked on the aviation industry and many things that he had to do was near or inside the airport, even our medics were there. As a child I was always amazed seeing those big-metal-flying things. By the time I had to choose what degree I'd attend, many of my passions had evolved and many more had grown, so I chose to attend Mechanical Engineering, greatly led by my creation and amuse passions and of course by my creativity hunt (that can be referenced by the non-stop learning thing)
+
+During the engineering years, I had a chance to participate the BAJA SAE competition (we had to build an off-road vehicle and compete) which led me to develop another set of skills such as Leadership, Mentoring and Teaching. These soft-sided skills were game changing, they opened an infinite possibilities world that I only had had a small grasp during the years I developed a MMO game server (which I had to deal with people, manage staff and players needs)
+
+Fast forwarding to the professional years, my skills toolbox granted me a Risk Analysis position in the biggest Brazil's private banking. Even though I had no chances at the engineering sector (due some economical challenges) I still keep my desire to create and amuse. My professional career (which will not be described here) is full of learning. I've been able to learn and be in contact with many people from different areas, with different set of knowledges that always kept me curious and looking forward.
+
+I'll stop here while this brief is still brief.
+
+Feel free to contact me, ask questions, talk, ask for advices or just to say hello!
+
+------
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
+## Professional Skill Set  
+### Main Backend Programming Skills
 
-### Frontend and Backend Skills
+- C/C++
+- C# / .Net Framework / .Net Core
+- NodeJS / JavaScript / TypeScript
+- Python
+- PHP
+- BASH
+- Git / Github / GitLab
+- APIs / Docker / Cloud Computing
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/teradata.png" alt="Teradata" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-</div></td></tr></table>  
 
-<br/>
+### Main Frontend Programming Skills
 
-### Engineering skills
+- HTML / CSS / JS
+- React / NextJS
+- Bootstrap / MaterialUI
+- API Integration
 
-<div align="center">  
-<img style="margin: 10px" src="https://img2.gratispng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="Solidworks" height="50" />  
-<img style="margin: 10px" src="https://inceptum-stor.icons8.com/yxy40iEo6won/inventor-be5aeafb23.png" alt="Inventor" height="50" />  
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/720253203833487360/E4jA7xy5_400x400.jpg" alt="Fusion360" height="50" />   
-<img style="margin: 10px" src="https://logosmarcas.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="ANSYS" height="50" />
-<img style="margin: 10px" src="https://www.ozeninc.com/wp-content/uploads/2017/09/Discovery-Live-Logo-Image.png" alt="Discovery SpaceClaim" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MatLAB" height="50" />    
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" height="50" />      
-<img style="margin: 10px" src="https://previews.123rf.com/images/starserfer/starserfer1609/starserfer160900002/64524472-3d-printer-line-style-icon.jpg" alt="3D Printing Prototype" height="50" />  
+### Main Database Skills
 
-</div>
+- MySQL / MariaDB
+- Oracle
+- Teradata
+
+### Main Data Analysis and Science Skills
+
+- Neural Networks / Deep Learning / Tensorflow / PyTorch / Keras
+- Machine Learning / Supervised, Unsupervised, Evolutionary Learning
+  - Classifications / Regressions / Clustering / Reinfoircement
+  - Genetic Learning
+  - SKLearn / Accord.NET / WEKA / LGBM / SAS
+- Tableau
+- Data Acquisition and Mining (Services, Scrapping, Crawling)
+- BI
+
+### Main Design Softwares Familiarity
+
+- Adobe (Illustrator, Photoshop, After Effects, Premiere Pro, Dreamweaver)
+- Affinity Photo
+- InkScape
+
+### Main Engineering skills
+
+- 2D/3D CAD Modeling (Solidworks, Inventor, AutoCAD, Fusion360)
+- FEA / CFD (Solidworks, Ansys, Discovery)
+- Discrete Simulations (MATLab, SImulink)
+- Additive Manufacturing (3D Printing, FDM, STL)
+- Prototyping / Arduino / Raspberry Pi
+- Computer Assisted Manufacture
+- Dynamic Systems Control and Optimization (PID, Signal Processing)
+
+
 
 
 ## Connect with me  
@@ -95,7 +106,7 @@
 </div>    
   
 
-<br/>  
+  
 
 
 ## Github Stats  
@@ -104,19 +115,16 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fetuffani&count_private=true&show_icons=true&hide_border=true" height="150" />
 </div>  
 
-<br/>  
+
 
 ## My Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=feehmt&cover_image=true&theme=novatorem" /></div>  
 
-<br/>  
+  
 
 
 *"Life comes in good and bad times that alternate frantically, they happen almost at the same time, leaving us often confused, without direction. What we have left is to make happiness prevail, because what is bad comes from the anger of the others, but what is good comes from the love in you. "*  
 
-
 -- Mário Franco  
-
-<br />
 
 ----
