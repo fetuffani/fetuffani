@@ -68,10 +68,11 @@ Feel free to contact me, ask questions, talk, ask for advices or just to say hel
 - Machine Learning / Supervised, Unsupervised, Evolutionary Learning
   - Classifications / Regressions / Clustering / Reinfoircement
   - Genetic Learning
-  - SKLearn / Accord.NET / WEKA / LGBM / SAS
-- Tableau
+  - SKLearn / Accord.NET / WEKA / LGBM
+- SAS (Enterprise Guide, Data Integration Studio, Miner)
+- Tableau / BI
 - Data Acquisition and Mining (Services, Scrapping, Crawling)
-- BI
+- BigData
 
 ### Main Design Softwares Familiarity
 
