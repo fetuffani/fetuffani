@@ -13,7 +13,7 @@
 - ❓ Ask me about anything and we may end talking for hours  
 - ⚡ Fun fact: I use tabs over spaces  
 - 💸 [Income Tax Calculator](https://calcfin.vercel.app/) (Calculadora Imposto de Renda)
-- 💸 [My front page](https://fetuffani.github.io/) (and some of my publications)
+- 🙋🏼‍♂️ [My front page](https://fetuffani.github.io/) (and some of my publications)
 
 ------
 
