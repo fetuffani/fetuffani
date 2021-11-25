@@ -8,7 +8,8 @@
 
 - 💼 Currently working as a data scientist and BI  
 - :video_game: Retired game/server designer at [SphereServer](https://github.com/Sphereserver)
-- 📝 [Blogging](https://fetuffani.vercel.app/) and 📷 Video Making (TBD)
+- 📝 [Blogging](https://fetuffani.vercel.app/) and some of my thinkings
+- 📷 Video Making (TBD)
 - 🎓 Non-stop learner
 - ❓ Ask me about anything and we may end talking for hours  
 - ⚡ Fun fact: I use tabs over spaces  
