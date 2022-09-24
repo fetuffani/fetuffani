@@ -1,6 +1,6 @@
 # Roadmap Data Science
 
-**\>\> CONTEUDO PRELIMINAR EM FASE DE COLETA DE INFORMAÇOES <<**
+**\>\> CONTEUDO PRELIMINAR EM FASE DE COLETA DE INFORMAÇÕES <<**
 
 O intuito deste roadmap é servir como um guia para auxiliar seus estudos em Data Science!
 
@@ -85,14 +85,14 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 > 
 > 
 > Acho que uma dica seria: **não procure a melhor forma de começar, só comece**. Se ficar nessa de buscar a melhor, você nunca vai começar.
-> Eu buscaria coisas em paralelo como estatisticas, distribuiçoes, regressoes, um pouco de matematica, dados e depois os algoritmos de Machine Learning. Ciencia de Dados é uma mistura de muita coisa, não acho que tenha um ponto de partida unico. Conheço um canal que Chama StatQuest que explica de forma bem visual, didatica e mastigada os conceitos. O importante é nunca parar de buscar e aprender
+> Eu buscaria coisas em paralelo como estatísticas, distribuições, regressões, um pouco de matemática, dados e depois os algoritmos de Machine Learning. Ciência de Dados é uma mistura de muita coisa, não acho que tenha um ponto de partida único. Conheço um canal que Chama StatQuest que explica de forma bem visual, didática e mastigada os conceitos. O importante é nunca parar de buscar e aprender
 > 
 > 
 > 
-> A USP tem a grade de todos os cursos abertos, vai ter MUITO conteudo que parece assustar, mas é uma boa forma de balizar o inicio dessa jornada (ver links acima)
+> A USP tem a grade de todos os cursos abertos, vai ter MUITO conteúdo que parece assustar, mas é uma boa forma de balizar o início dessa jornada (ver links acima)
 > 
 > 
-> Tem bastante coisa ai que não é estritamente necessario pra começar, mas por se tratar de um curso de graduação eles vão te dar todas as bases necessarias. Com um pouco de cuidado e bom discernimento vc consegue ir selecionando pontos especificos e ir aprendendo no seu ritmo
+> Tem bastante coisa ai que não é estritamente necessário pra começar, mas por se tratar de um curso de graduação eles vão te dar todas as bases necessárias. Com um pouco de cuidado e bom discernimento você consegue ir selecionando pontos específicos e ir aprendendo no seu ritmo
 
 
 
@@ -100,55 +100,47 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 > 
 > 
 > 
-> Em relação a matematica, ciencia de dados é muito baseado em: Estatistica / Sistemas lineares, Algebra linear, regressão linear.
-> Não existe um caminho unico, um melhor caminho...
+> Em relação a matemática, ciência de dados é muito baseado em: Estatística / Sistemas lineares, Álgebra linear, regressão linear.
+> Não existe um caminho único, um melhor caminho...
 > 
-> O que eu fiz pra aprender: Fucei em tudo que conseguia, criava modelos, aprendia bibliotecas, lia documentacoes e paginas que explicavam tecnicas e coisas mais profundas...
+> O que eu fiz pra aprender: Fucei em tudo que conseguia, criava modelos, aprendia bibliotecas, lia documentações e páginas que explicavam técnicas e coisas mais profundas...
 > 
-> Python é a maior fonte de recurso quando se trata de ciencia de dados, porém nada impede de estudar outras linguagens como R por exemplo. (Eu aprendi usando C#)
+> Python é a maior fonte de recurso quando se trata de ciência de dados, porém nada impede de estudar outras linguagens como R por exemplo. (Eu aprendi usando C#)
 > 
-> O complicado de ciencia de dados é que é uma area MUITO abrangente e nem todo mundo entende a mesma coisa. Tem gente que acha que é criar modelos estatisticos e tem gente que acha que é tratamento de dados, outros ja dizem que é machine learning... existe uma mistura ai no meio e também outras vertentes que se misturam com outros assuntos (como econometria)
+> O complicado de ciência de dados é que é uma área MUITO abrangente e nem todo mundo entende a mesma coisa. Tem gente que acha que é criar modelos estatísticos e tem gente que acha que é tratamento de dados, outros ja dizem que é machine learning... existe uma mistura ai no meio e também outras vertentes que se misturam com outros assuntos (como econometria)
 > 
-> existem trilhas (ver links acima) mas eu nao gosto muito de recomentar pq acaba dando a impressao de que voce TEM QUE começar no passo 1, depois passo 2 e acaba assustando por ter varias coisas de complexidades diferentes com nome estranho.... voce pode pegar qualquer item dai do meio e aprender de forma isolada e depois juntar os conhecimentos mais pra frente. (edited)
+> existem trilhas (ver links acima) mas eu não gosto muito de recomentar pois acaba dando a impressão de que você TEM QUE começar no passo 1, depois passo 2 e acaba assustando por ter várias coisas de complexidades diferentes com nome estranho.... você pode pegar qualquer item dessa lista e aprender de forma isolada e depois juntar os conhecimentos mais pra frente.
 > 
-> Voce pode começar sim pela matematica, mas acaba sendo BEM denso o assunto e as vezes nao te da o retorno de que esta aprendendo pois a aplicação é bem dificil
+> Você pode sim começar pela matemática, mas o assunto acaba sendo BEM denso e as vezes não te da o retorno imediato de que esta aprendendo pois a aplicação é bem difícil
 > 
-> Os videos ensinam e falam das bibliotecas porque é a parte legal, é onde todo mundo que estar: apertar o botao fit() e treinar o modelo
+> Os vídeos ensinam e falam das bibliotecas pois é a parte legal, é onde todo mundo quer estar: apertar o botão fit() e treinar o modelo
 > 
-> a matematica te diz o porque e o que esta acontecendo, mas acaba sendo a parte dificil (edited)
+> a matámatica te diz o motivo e o que está acontecendo, mas acaba sendo a parte difícil
 > 
-> e os videos tem que fazer visualização certo? por isso "só mostram o bolo e nao a receita" (edited)
+> e os vídeos tem que fazer visualização certo? por isso "só mostram o bolo e nao a receita"
 > 
-> e por nao ter um ponto de partida bem definido, acaba sendo dificil recomendar um ponto de partida pra ciencia de dados
+> e por não ter um ponto de partida bem definido, acaba sendo difícil recomendar por onde começar a estudar ciência de dados
 > 
-> no fim das contas é uma mistura de matematica, estatistica, programacao, banco de dados, algoritmos, visualização e negocio (a area que voce aplica tudo isso, finanças, engenharia, biologia, psicologia....)
+> no fim das contas é uma mistura de matemática, estatística, programação, banco de dados, algoritmos, visualização e negócios (a área que você aplica tudo isso, finanças, engenharia, biologia, psicologia....)
 > 
 > por exemplo, redes neurais usa MUITO sistemas lineares, matrizes, derivadas e gradientes
 > 
-> Regressoes o nome propriamente diz, usa muito regressao linear, gradientes também, estatistica multivariada, correlações e variancia
+> Regressões o nome propriamente diz, usa muito regressão linear, gradientes também, estatística multivariada, correlações e variância
 > 
 > Arvores/forests usam muito entropia, algoritmos dicotomizadores
 > 
-> Acho que a melhor forma de começar é ter curiosidade e vontade de aprender TUDO porém com calma porque é muita coisa MESMO, é uma junçao de varias areas do conhecimento
+> Acho que a melhor forma de começar é ter curiosidade e vontade de aprender TUDO porém com calma porque é muita coisa MESMO, é uma junção de várias áreas do conhecimento
 > 
-> e aprender matematica pura de forma bruta pode nao ser legal no começo, porque voce raramente vai codar as equaçoes, mas é importante saber o que elas fazem e como os algoritmos funcionam debaixo do capô.
+> e aprender matemática pura de forma bruta pode não ser legal no começo, pois você raramente vai codar as equações, mas é importante saber o que elas fazem e como os algoritmos funcionam debaixo do capô.
 
 
 
-> [VER NA INTEGRA7](https://discord.com/channels/789888698673922078/836579931159789598/1013919303608848395)
+> [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1013919303608848395)
 > 
 > 
 > 
-> É uma area ou profissão bem ampla, não existe uma definição exata mas da pra dar alguns exemplos
-> 
-> Da experiencia que eu tive com Ciencia de Dados, no setor financeiro.
-> Usa bastante estatistica, habilidades e manipular dados e principalmente o conhecimento de negócio que é basicamente saber porque voce está fazendo tal coisa e como isso impacta o resto da cadeia de trabalho. 50% do tempo era discussao de negocios pra entender as necessidades, 40% tratando dados 9% validando estatisticamente e só 1% fazendo a parte divertida que é usar os modelos de Machine Learning e IA.
-> Não usamos diretamente o conhecimento de Algebra Linear, SGD, Equaçoes Diferenciais... mas é importante ter tudo isso na cabeça pra entender os motivos de algo ter dado certo ou errado, ou parecer estar certo mas conceitualmente errado... Por mais que nao escrevemos os algoritmos, é importante saber o que eles fazem debaixo do capô. Usamos muito SQL, dados, otimização, tratamento e limpeza, aplicação de conceito, engenharia de variaveis....
-> 
-> Outras areas como desenvolvimento de chatbots podem pegar um pouco mais pro lado técnico/estatístico puro sem tanto depender de negócios. Desenvolvimento de NPL requer conhecimentos de linguistica, tratamento de dados esparsos... Areas da engenharia podem requerer conhecimentos de mercado, consumo ou especificos da aplicação (vibro-acustica por exemplo)
-> 
-> É uma área nova e bem ampla e geralmente o aprendizado é focado em um "setor" ou aplicação especifica, no caso da financeira acaba tendo bastante paralelos com Econometria. No caso de visão/acustica computacional tem muito paralelo com processamento de sinais; NLP com estruturas linguisticas, semantica... E assim vai
-> 
-> Até da pra falar que existe um "pacote básico" de aprendizado mas voce vai aprender mesmo aplicando e entendendo aos poucos, num trabalho ou aplicação real, onde você nao avalia as métricas (Gini, ROIC, KS, RMS....) e sim os resultados e impactos da aplicação do modelo ou conhecimento (Redução de custo, tempo de fila/espera, redução de perdas, aumento no lucro com redução de risco, chatbots responsivos, recomendaçoes mais certeiras.....) 
-
-
+> >É uma área ou profissão bem ampla, não existe uma definição exata, mas dá pra dar alguns exemplos
+>Da experiencia que eu tive com Ciência de Dados, no setor financeiro. Usa bastante estatística, habilidades e manipular dados e principalmente o conhecimento de negócio que é basicamente saber o motivo pelo qual você está fazendo tal coisa e como isso impacta o resto da cadeia de trabalho. 50% do tempo era discussão de negócios pra entender as necessidades, 40% tratando dados 9% validando estatisticamente e só 1% fazendo a parte divertida que é usar os modelos de Machine Learning e IA. Não usamos diretamente o conhecimento de Álgebra Linear, SGD, Equações Diferenciais... mas é importante ter tudo isso na cabeça pra entender os motivos de algo ter dado certo ou errado, ou parecer estar certo mas conceitualmente errado... Por mais que não escrevemos os algoritmos, é importante saber o que eles fazem debaixo do capô. Usamos muito SQL, dados, otimização, tratamento e limpeza, aplicação de conceito, engenharia de variáveis....
+>Outras áreas como desenvolvimento de chatbots podem pegar um pouco mais pro lado técnico/estatístico puro sem tanto depender de negócios. Desenvolvimento de NPL requer conhecimentos de lingüística, tratamento de dados esparsos... Áreas da engenharia podem requerer conhecimentos de mercado, consumo ou específicos da aplicação (vibro-acústica por exemplo)
+>É uma área nova e bem ampla e geralmente o aprendizado é focado em um "setor" ou aplicação específica, no caso da financeira acaba tendo bastante paralelos com Econometria. No caso de visão/acústica computacional tem muito paralelo com processamento de sinais; NLP com estruturas lingüísticas, semântica... E assim vai
+>Até dá pra falar que existe um "pacote básico" de aprendizado, mas você vai aprender mesmo aplicando e entendendo aos poucos, num trabalho ou aplicação real, onde você não avalia as métricas (Gini, ROIC, KS, RMS....) e sim os resultados e impactos da aplicação do modelo ou conhecimento (Redução de custo, tempo de fila/espera, redução de perdas, aumento no lucro com redução de risco, chatbots responsivos, recomendações mais certeiras....)
