@@ -141,8 +141,14 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 > 
 > 
 > 
-> >É uma área ou profissão bem ampla, não existe uma definição exata, mas dá pra dar alguns exemplos
+>É uma área ou profissão bem ampla, não existe uma definição exata, mas dá pra dar alguns exemplos
+> 
 >Da experiencia que eu tive com Ciência de Dados, no setor financeiro. Usa bastante estatística, habilidades e manipular dados e principalmente o conhecimento de negócio que é basicamente saber o motivo pelo qual você está fazendo tal coisa e como isso impacta o resto da cadeia de trabalho. 50% do tempo era discussão de negócios pra entender as necessidades, 40% tratando dados 9% validando estatisticamente e só 1% fazendo a parte divertida que é usar os modelos de Machine Learning e IA. Não usamos diretamente o conhecimento de Álgebra Linear, SGD, Equações Diferenciais... mas é importante ter tudo isso na cabeça pra entender os motivos de algo ter dado certo ou errado, ou parecer estar certo mas conceitualmente errado... Por mais que não escrevemos os algoritmos, é importante saber o que eles fazem debaixo do capô. Usamos muito SQL, dados, otimização, tratamento e limpeza, aplicação de conceito, engenharia de variáveis....
+> 
 >Outras áreas como desenvolvimento de chatbots podem pegar um pouco mais pro lado técnico/estatístico puro sem tanto depender de negócios. Desenvolvimento de NPL requer conhecimentos de lingüística, tratamento de dados esparsos... Áreas da engenharia podem requerer conhecimentos de mercado, consumo ou específicos da aplicação (vibro-acústica por exemplo)
+> 
 >É uma área nova e bem ampla e geralmente o aprendizado é focado em um "setor" ou aplicação específica, no caso da financeira acaba tendo bastante paralelos com Econometria. No caso de visão/acústica computacional tem muito paralelo com processamento de sinais; NLP com estruturas lingüísticas, semântica... E assim vai
+> 
 >Até dá pra falar que existe um "pacote básico" de aprendizado, mas você vai aprender mesmo aplicando e entendendo aos poucos, num trabalho ou aplicação real, onde você não avalia as métricas (Gini, ROIC, KS, RMS....) e sim os resultados e impactos da aplicação do modelo ou conhecimento (Redução de custo, tempo de fila/espera, redução de perdas, aumento no lucro com redução de risco, chatbots responsivos, recomendações mais certeiras....)
+> 
+> 
