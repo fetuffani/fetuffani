@@ -1,12 +1,12 @@
 # Roadmap Data Science
 
-**\>\> CONTEUDO PRELIMINAR EM FASE DE COLETA DE INFORMAÃ‡Ã•ES <<**
+**\>\> CONTEUDO PRELIMINAR EM FASE DE COLETA DE INFORMAÇÕES <<**
 
-O intuito deste roadmap Ã© servir como um guia para auxiliar seus estudos em Data Science!
+O intuito deste roadmap é servir como um guia para auxiliar seus estudos em Data Science!
 
-Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha experiencia. 
+Montei aqui um compilado baseado em diversas fontes além é claro da minha experiencia. 
 
-## ReferÃªncias
+## Referências
 
 #### Roadmaps
 
@@ -18,25 +18,27 @@ Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha expe
 
 - [Alura Tech Guide - Trilha Data Scientist](https://techguide.sh/pt-BR/path/data-scientist/)
 
-- [USP ICMC - Bacharelado em CiÃªncia de Dados](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55090&codhab=0&tipo=N)
+- [USP ICMC - Bacharelado em Ciência de Dados](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55090&codhab=0&tipo=N)
 
-- [USP ICMC - Bacharelado em EstatÃ­stica e CiÃªncia de Dados](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55071&codhab=4&tipo=N)
+- [USP ICMC - Bacharelado em Estatística e Ciência de Dados](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55071&codhab=4&tipo=N)
 
-- [USP IME - Bacharelado EstatÃ­stica](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=45&codcur=45062&codhab=1&tipo=N)
+- [USP IME - Bacharelado Estatística](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=45&codcur=45062&codhab=1&tipo=N)
 
 - [CEDS ITA 2022](https://ceds.ita.br/turma/ibape-pr/#carga-hor%C3%A1ria-e-disciplinas)
 
 - [Marcos Silva - Como se tornar um cientista de dados](https://medium.com/team-data-stone/como-se-tornar-um-cientista-de-dados-bdda45047be1)
 
-- [QUODA - Trilha em CiÃªncia de Dados](https://twitter.com/qodabr/status/1337765125621764098)
+- [QUODA - Trilha em Ciência de Dados](https://twitter.com/qodabr/status/1337765125621764098)
 
 - [sn3fru - Data Science Course](https://github.com/sn3fru/datascience_course)
 
 - [Learn Python, Data Viz, Pandas &amp; More | Tutorials | Kaggle](https://www.kaggle.com/learn)
 
-- [IntroduÃ§Ã£o ao TensorFlow](https://www.tensorflow.org/learn)
+- [Introdução ao TensorFlow](https://www.tensorflow.org/learn)
 
-- [EducaÃ§Ã£o em machine learning &nbsp;|&nbsp; TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+- [Educação em machine learning &nbsp;|&nbsp; TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+
+- [Geeks for Geeks - How to Become Data Scientist](https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/)
 
 #### Livros
 
@@ -70,7 +72,7 @@ Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha expe
   
   
 
-#### DocumentaÃ§Ãµes
+#### Documentações
 
 [Choosing the right estimator &mdash; scikit-learn 1.1.2 documentation](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
@@ -78,21 +80,21 @@ Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha expe
 
 
 
-#### Minhas ConsideraÃ§Ãµes
+#### Minhas Considerações
 
 > [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1003371079210909707)
 > 
 > 
 > 
-> Acho que uma dica seria: **nÃ£o procure a melhor forma de comeÃ§ar, sÃ³ comece**. Se ficar nessa de buscar a melhor, vocÃª nunca vai comeÃ§ar.
-> Eu buscaria coisas em paralelo como estatÃ­sticas, distribuiÃ§Ãµes, regressÃµes, um pouco de matemÃ¡tica, dados e depois os algoritmos de Machine Learning. CiÃªncia de Dados Ã© uma mistura de muita coisa, nÃ£o acho que tenha um ponto de partida Ãºnico. ConheÃ§o um canal que Chama StatQuest que explica de forma bem visual, didÃ¡tica e mastigada os conceitos. O importante Ã© nunca parar de buscar e aprender
+> Acho que uma dica seria: **não procure a melhor forma de começar, só comece**. Se ficar nessa de buscar a melhor, você nunca vai começar.
+> Eu buscaria coisas em paralelo como estatísticas, distribuições, regressões, um pouco de matemática, dados e depois os algoritmos de Machine Learning. Ciência de Dados é uma mistura de muita coisa, não acho que tenha um ponto de partida único. Conheço um canal que Chama StatQuest que explica de forma bem visual, didática e mastigada os conceitos. O importante é nunca parar de buscar e aprender
 > 
 > 
 > 
-> A USP tem a grade de todos os cursos abertos, vai ter MUITO conteÃºdo que parece assustar, mas Ã© uma boa forma de balizar o inÃ­cio dessa jornada (ver links acima)
+> A USP tem a grade de todos os cursos abertos, vai ter MUITO conteúdo que parece assustar, mas é uma boa forma de balizar o início dessa jornada (ver links acima)
 > 
 > 
-> Tem bastante coisa ai que nÃ£o Ã© estritamente necessÃ¡rio pra comeÃ§ar, mas por se tratar de um curso de graduaÃ§Ã£o eles vÃ£o te dar todas as bases necessÃ¡rias. Com um pouco de cuidado e bom discernimento vocÃª consegue ir selecionando pontos especÃ­ficos e ir aprendendo no seu ritmo
+> Tem bastante coisa ai que não é estritamente necessário pra começar, mas por se tratar de um curso de graduação eles vão te dar todas as bases necessárias. Com um pouco de cuidado e bom discernimento você consegue ir selecionando pontos específicos e ir aprendendo no seu ritmo
 
 
 
@@ -100,38 +102,38 @@ Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha expe
 > 
 > 
 > 
-> Em relaÃ§Ã£o a matemÃ¡tica, ciÃªncia de dados Ã© muito baseado em: EstatÃ­stica / Sistemas lineares, Ãlgebra linear, regressÃ£o linear.
-> NÃ£o existe um caminho Ãºnico, um melhor caminho...
+> Em relação a matemática, ciência de dados é muito baseado em: Estatística / Sistemas lineares, Álgebra linear, regressão linear.
+> Não existe um caminho único, um melhor caminho...
 > 
-> O que eu fiz pra aprender: Fucei em tudo que conseguia, criava modelos, aprendia bibliotecas, lia documentaÃ§Ãµes e pÃ¡ginas que explicavam tÃ©cnicas e coisas mais profundas...
+> O que eu fiz pra aprender: Fucei em tudo que conseguia, criava modelos, aprendia bibliotecas, lia documentações e páginas que explicavam técnicas e coisas mais profundas...
 > 
-> Python Ã© a maior fonte de recurso quando se trata de ciÃªncia de dados, porÃ©m nada impede de estudar outras linguagens como R por exemplo. (Eu aprendi usando C#)
+> Python é a maior fonte de recurso quando se trata de ciência de dados, porém nada impede de estudar outras linguagens como R por exemplo. (Eu aprendi usando C#)
 > 
-> O complicado de ciÃªncia de dados Ã© que Ã© uma Ã¡rea MUITO abrangente e nem todo mundo entende a mesma coisa. Tem gente que acha que Ã© criar modelos estatÃ­sticos e tem gente que acha que Ã© tratamento de dados, outros ja dizem que Ã© machine learning... existe uma mistura ai no meio e tambÃ©m outras vertentes que se misturam com outros assuntos (como econometria)
+> O complicado de ciência de dados é que é uma área MUITO abrangente e nem todo mundo entende a mesma coisa. Tem gente que acha que é criar modelos estatísticos e tem gente que acha que é tratamento de dados, outros ja dizem que é machine learning... existe uma mistura ai no meio e também outras vertentes que se misturam com outros assuntos (como econometria)
 > 
-> existem trilhas (ver links acima) mas eu nÃ£o gosto muito de recomentar pois acaba dando a impressÃ£o de que vocÃª TEM QUE comeÃ§ar no passo 1, depois passo 2 e acaba assustando por ter vÃ¡rias coisas de complexidades diferentes com nome estranho.... vocÃª pode pegar qualquer item dessa lista e aprender de forma isolada e depois juntar os conhecimentos mais pra frente.
+> existem trilhas (ver links acima) mas eu não gosto muito de recomentar pois acaba dando a impressão de que você TEM QUE começar no passo 1, depois passo 2 e acaba assustando por ter várias coisas de complexidades diferentes com nome estranho.... você pode pegar qualquer item dessa lista e aprender de forma isolada e depois juntar os conhecimentos mais pra frente.
 > 
-> VocÃª pode sim comeÃ§ar pela matemÃ¡tica, mas o assunto acaba sendo BEM denso e as vezes nÃ£o te da o retorno imediato de que esta aprendendo pois a aplicaÃ§Ã£o Ã© bem difÃ­cil
+> Você pode sim começar pela matemática, mas o assunto acaba sendo BEM denso e as vezes não te da o retorno imediato de que esta aprendendo pois a aplicação é bem difícil
 > 
-> Os vÃ­deos ensinam e falam das bibliotecas pois Ã© a parte legal, Ã© onde todo mundo quer estar: apertar o botÃ£o fit() e treinar o modelo
+> Os vídeos ensinam e falam das bibliotecas pois é a parte legal, é onde todo mundo quer estar: apertar o botão fit() e treinar o modelo
 > 
-> a matÃ¡matica te diz o motivo e o que estÃ¡ acontecendo, mas acaba sendo a parte difÃ­cil
+> a matámatica te diz o motivo e o que está acontecendo, mas acaba sendo a parte difícil
 > 
-> e os vÃ­deos tem que fazer visualizaÃ§Ã£o certo? por isso "sÃ³ mostram o bolo e nao a receita"
+> e os vídeos tem que fazer visualização certo? por isso "só mostram o bolo e nao a receita"
 > 
-> e por nÃ£o ter um ponto de partida bem definido, acaba sendo difÃ­cil recomendar por onde comeÃ§ar a estudar ciÃªncia de dados
+> e por não ter um ponto de partida bem definido, acaba sendo difícil recomendar por onde começar a estudar ciência de dados
 > 
-> no fim das contas Ã© uma mistura de matemÃ¡tica, estatÃ­stica, programaÃ§Ã£o, banco de dados, algoritmos, visualizaÃ§Ã£o e negÃ³cios (a Ã¡rea que vocÃª aplica tudo isso, finanÃ§as, engenharia, biologia, psicologia....)
+> no fim das contas é uma mistura de matemática, estatística, programação, banco de dados, algoritmos, visualização e negócios (a área que você aplica tudo isso, finanças, engenharia, biologia, psicologia....)
 > 
 > por exemplo, redes neurais usa MUITO sistemas lineares, matrizes, derivadas e gradientes
 > 
-> RegressÃµes o nome propriamente diz, usa muito regressÃ£o linear, gradientes tambÃ©m, estatÃ­stica multivariada, correlaÃ§Ãµes e variÃ¢ncia
+> Regressões o nome propriamente diz, usa muito regressão linear, gradientes também, estatística multivariada, correlações e variância
 > 
 > Arvores/forests usam muito entropia, algoritmos dicotomizadores
 > 
-> Acho que a melhor forma de comeÃ§ar Ã© ter curiosidade e vontade de aprender TUDO porÃ©m com calma porque Ã© muita coisa MESMO, Ã© uma junÃ§Ã£o de vÃ¡rias Ã¡reas do conhecimento
+> Acho que a melhor forma de começar é ter curiosidade e vontade de aprender TUDO porém com calma porque é muita coisa MESMO, é uma junção de várias áreas do conhecimento
 > 
-> e aprender matemÃ¡tica pura de forma bruta pode nÃ£o ser legal no comeÃ§o, pois vocÃª raramente vai codar as equaÃ§Ãµes, mas Ã© importante saber o que elas fazem e como os algoritmos funcionam debaixo do capÃ´.
+> e aprender matemática pura de forma bruta pode não ser legal no começo, pois você raramente vai codar as equações, mas é importante saber o que elas fazem e como os algoritmos funcionam debaixo do capô.
 
 
 
@@ -139,8 +141,8 @@ Montei aqui um compilado baseado em diversas fontes alÃ©m Ã© claro da minha expe
 > 
 > 
 > 
-> >Ã‰ uma Ã¡rea ou profissÃ£o bem ampla, nÃ£o existe uma definiÃ§Ã£o exata, mas dÃ¡ pra dar alguns exemplos
->Da experiencia que eu tive com CiÃªncia de Dados, no setor financeiro. Usa bastante estatÃ­stica, habilidades e manipular dados e principalmente o conhecimento de negÃ³cio que Ã© basicamente saber o motivo pelo qual vocÃª estÃ¡ fazendo tal coisa e como isso impacta o resto da cadeia de trabalho. 50% do tempo era discussÃ£o de negÃ³cios pra entender as necessidades, 40% tratando dados 9% validando estatisticamente e sÃ³ 1% fazendo a parte divertida que Ã© usar os modelos de Machine Learning e IA. NÃ£o usamos diretamente o conhecimento de Ãlgebra Linear, SGD, EquaÃ§Ãµes Diferenciais... mas Ã© importante ter tudo isso na cabeÃ§a pra entender os motivos de algo ter dado certo ou errado, ou parecer estar certo mas conceitualmente errado... Por mais que nÃ£o escrevemos os algoritmos, Ã© importante saber o que eles fazem debaixo do capÃ´. Usamos muito SQL, dados, otimizaÃ§Ã£o, tratamento e limpeza, aplicaÃ§Ã£o de conceito, engenharia de variÃ¡veis....
->Outras Ã¡reas como desenvolvimento de chatbots podem pegar um pouco mais pro lado tÃ©cnico/estatÃ­stico puro sem tanto depender de negÃ³cios. Desenvolvimento de NPL requer conhecimentos de lingÃ¼Ã­stica, tratamento de dados esparsos... Ãreas da engenharia podem requerer conhecimentos de mercado, consumo ou especÃ­ficos da aplicaÃ§Ã£o (vibro-acÃºstica por exemplo)
->Ã‰ uma Ã¡rea nova e bem ampla e geralmente o aprendizado Ã© focado em um "setor" ou aplicaÃ§Ã£o especÃ­fica, no caso da financeira acaba tendo bastante paralelos com Econometria. No caso de visÃ£o/acÃºstica computacional tem muito paralelo com processamento de sinais; NLP com estruturas lingÃ¼Ã­sticas, semÃ¢ntica... E assim vai
->AtÃ© dÃ¡ pra falar que existe um "pacote bÃ¡sico" de aprendizado, mas vocÃª vai aprender mesmo aplicando e entendendo aos poucos, num trabalho ou aplicaÃ§Ã£o real, onde vocÃª nÃ£o avalia as mÃ©tricas (Gini, ROIC, KS, RMS....) e sim os resultados e impactos da aplicaÃ§Ã£o do modelo ou conhecimento (ReduÃ§Ã£o de custo, tempo de fila/espera, reduÃ§Ã£o de perdas, aumento no lucro com reduÃ§Ã£o de risco, chatbots responsivos, recomendaÃ§Ãµes mais certeiras....)
+> >É uma área ou profissão bem ampla, não existe uma definição exata, mas dá pra dar alguns exemplos
+>Da experiencia que eu tive com Ciência de Dados, no setor financeiro. Usa bastante estatística, habilidades e manipular dados e principalmente o conhecimento de negócio que é basicamente saber o motivo pelo qual você está fazendo tal coisa e como isso impacta o resto da cadeia de trabalho. 50% do tempo era discussão de negócios pra entender as necessidades, 40% tratando dados 9% validando estatisticamente e só 1% fazendo a parte divertida que é usar os modelos de Machine Learning e IA. Não usamos diretamente o conhecimento de Álgebra Linear, SGD, Equações Diferenciais... mas é importante ter tudo isso na cabeça pra entender os motivos de algo ter dado certo ou errado, ou parecer estar certo mas conceitualmente errado... Por mais que não escrevemos os algoritmos, é importante saber o que eles fazem debaixo do capô. Usamos muito SQL, dados, otimização, tratamento e limpeza, aplicação de conceito, engenharia de variáveis....
+>Outras áreas como desenvolvimento de chatbots podem pegar um pouco mais pro lado técnico/estatístico puro sem tanto depender de negócios. Desenvolvimento de NPL requer conhecimentos de lingüística, tratamento de dados esparsos... Áreas da engenharia podem requerer conhecimentos de mercado, consumo ou específicos da aplicação (vibro-acústica por exemplo)
+>É uma área nova e bem ampla e geralmente o aprendizado é focado em um "setor" ou aplicação específica, no caso da financeira acaba tendo bastante paralelos com Econometria. No caso de visão/acústica computacional tem muito paralelo com processamento de sinais; NLP com estruturas lingüísticas, semântica... E assim vai
+>Até dá pra falar que existe um "pacote básico" de aprendizado, mas você vai aprender mesmo aplicando e entendendo aos poucos, num trabalho ou aplicação real, onde você não avalia as métricas (Gini, ROIC, KS, RMS....) e sim os resultados e impactos da aplicação do modelo ou conhecimento (Redução de custo, tempo de fila/espera, redução de perdas, aumento no lucro com redução de risco, chatbots responsivos, recomendações mais certeiras....)
