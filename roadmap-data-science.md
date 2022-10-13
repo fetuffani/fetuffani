@@ -8,7 +8,7 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 
 ## Referências
 
-#### Roadmaps
+#### Roadmaps e Links úteis
 
 - [MrMimic data scientist roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 
@@ -40,7 +40,13 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 
 - [Geeks for Geeks - How to Become Data Scientist](https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/)
 
-#### Livros
+- [IBAPE - Curso de especializacao em Data Science CEDS](https://www.ibapepr.org.br/curso-de-especializacao-em-data-science-ceds/)
+
+- [A realidade por trás do Data Science e dos Unicórnios](https://medium.com/data-hackers/a-realidade-por-tr%C3%A1s-do-data-science-e-dos-unic%C3%B3rnios-4d947538f104)
+
+- [Pesquisa Google Trilha Data Science](https://www.google.com/search?q=trilha+data+science&newwindow=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3i4i1oLr4AhXIJ7kGHWZ0CwIQ_AUoAXoECAEQAw&biw=1920&bih=947#imgrc=Qc4tZToHVK4DAM)
+
+#### Livros e artigos
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
@@ -53,12 +59,14 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 - [Storytelling with data: A data visualization Guide for Business Professionals](https://www.wiley.com/en-us/Storytelling+with+Data:+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253)
 
 - [Python Data Science Handbook [Book]](https://www.oreilly.com/library/view/python-data-science/9781491912126/)
-  
-  - [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+- [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 - [An Introduction to Statistical Learning | SpringerLink](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
 
 - [Introduction to Machine Learning with Python [Book]](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+
+- [Entropia, Ganho de informação e Decision trees](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Entropia--Ganho-de-informa--o-e-Decision-trees.pdf)
 
 #### Canais
 
