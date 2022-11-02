@@ -111,8 +111,7 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 > [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1003371079210909707)
 > 
 > Acho que uma dica seria: **não procure a melhor forma de começar, só comece**. Se ficar nessa de buscar a melhor, você nunca vai começar.
-<img src="get-started.png">
-
+> <img src="get-started.png">
 > Eu buscaria coisas em paralelo como estatísticas, distribuições, regressões, um pouco de matemática, dados e depois os algoritmos de Machine Learning. Ciência de Dados é uma mistura de muita coisa, não acho que tenha um ponto de partida único. Conheço um canal que Chama StatQuest que explica de forma bem visual, didática e mastigada os conceitos. O importante é nunca parar de buscar e aprender
 > 
 > A USP tem a grade de todos os cursos abertos, vai ter MUITO conteúdo que parece assustar, mas é uma boa forma de balizar o início dessa jornada (ver links acima)
