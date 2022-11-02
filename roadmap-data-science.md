@@ -1,8 +1,9 @@
+
 # Roadmap Data Science
 
 **\>\> CONTEUDO PRELIMINAR EM FASE DE COLETA DE INFORMAÇÕES <<**
 
-O intuito deste roadmap é servir como um guia para auxiliar seus estudos em Data Science!
+O intuito deste arquivo é servir como um guia para auxiliar seus estudos em Data Science!
 
 Montei aqui um compilado baseado em diversas fontes além é claro da minha experiencia. 
 
@@ -46,6 +47,12 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 
 - [Pesquisa Google Trilha Data Science](https://www.google.com/search?q=trilha+data+science&newwindow=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3i4i1oLr4AhXIJ7kGHWZ0CwIQ_AUoAXoECAEQAw&biw=1920&bih=947#imgrc=Qc4tZToHVK4DAM)
 
+-  [CIÊNCIA DE DADOS COM LINGUAGEM R](https://zheage.github.io/Aulas-Ciencia-de-Dados-com-R/introdu%C3%A7%C3%A3o.html)
+
+- [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/)
+
+- [Data Science Academy - Cursos Gratuitos](https://www.datascienceacademy.com.br/cursosgratuitos)
+
 #### Livros e artigos
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -68,6 +75,10 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 
 - [Entropia, Ganho de informação e Decision trees](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Entropia--Ganho-de-informa--o-e-Decision-trees.pdf)
 
+- [The Machine Learning Mastery Learning](https://machinelearningmastery.com/machine-learning-mastery-method/)
+
+- [Algoritmos de destruição em massa](https://www.amazon.com.br/Algoritmos-Destrui%C3%A7%C3%A3o-Massa-Cathy-ONeil/dp/6586460026/ref=asc_df_6586460026/)
+
 #### Canais
 
 - [freeCodeCamp.org - YouTube](https://www.youtube.com/c/Freecodecamp)
@@ -77,38 +88,40 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 - [Data Science for beginners full course part 1 - YouTube (University of Washington)](https://www.youtube.com/watch?v=xUJ170KJIfM)
 
 - [StatQuest with Josh Starmer - YouTube](https://www.youtube.com/c/joshstarmer)
+
+- [What is Pandas?](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
   
-  
+- [Como você é uma cobaia da internet](https://www.youtube.com/watch?v=hTjY6DToAXc)
+
+- [Não seja ambicioso](https://www.youtube.com/watch?v=BBnDapwb2Ck) (ótima filosofia pra não ir com muita sede ao pote)
+
+- [Como usam a psicologia para fisgar jogadores](https://www.youtube.com/watch?v=WQXK6ejnwyY)
+
+- [Ela se Tornou Cientista de Dados em Apenas 6 Meses](https://www.youtube.com/watch?v=RpRoBWbyTIs)
 
 #### Documentações
 
-[Choosing the right estimator &mdash; scikit-learn 1.1.2 documentation](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [Choosing the right estimator &mdash; scikit-learn 1.1.2 documentation](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
-[Roadmap &mdash; scikit-learn 1.1.2 documentation](https://scikit-learn.org/stable/roadmap.html)
-
+- [Roadmap &mdash; scikit-learn 1.1.2 documentation](https://scikit-learn.org/stable/roadmap.html)
 
 
 #### Minhas Considerações
 
 > [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1003371079210909707)
 > 
-> 
-> 
 > Acho que uma dica seria: **não procure a melhor forma de começar, só comece**. Se ficar nessa de buscar a melhor, você nunca vai começar.
+<img src="get-starteg.png">
+
 > Eu buscaria coisas em paralelo como estatísticas, distribuições, regressões, um pouco de matemática, dados e depois os algoritmos de Machine Learning. Ciência de Dados é uma mistura de muita coisa, não acho que tenha um ponto de partida único. Conheço um canal que Chama StatQuest que explica de forma bem visual, didática e mastigada os conceitos. O importante é nunca parar de buscar e aprender
 > 
-> 
-> 
 > A USP tem a grade de todos os cursos abertos, vai ter MUITO conteúdo que parece assustar, mas é uma boa forma de balizar o início dessa jornada (ver links acima)
-> 
 > 
 > Tem bastante coisa ai que não é estritamente necessário pra começar, mas por se tratar de um curso de graduação eles vão te dar todas as bases necessárias. Com um pouco de cuidado e bom discernimento você consegue ir selecionando pontos específicos e ir aprendendo no seu ritmo
 
 
 
 > [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1013919303608848395)
-> 
-> 
 > 
 > Em relação a matemática, ciência de dados é muito baseado em: Estatística / Sistemas lineares, Álgebra linear, regressão linear.
 > Não existe um caminho único, um melhor caminho...
@@ -146,8 +159,6 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha experi
 
 
 > [VER NA INTEGRA](https://discord.com/channels/789888698673922078/836579931159789598/1013919303608848395)
-> 
-> 
 > 
 >É uma área ou profissão bem ampla, não existe uma definição exata, mas dá pra dar alguns exemplos
 > 
