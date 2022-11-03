@@ -27,6 +27,8 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 
 - [CEDS ITA 2022](https://ceds.ita.br/turma/ibape-pr/#carga-hor%C3%A1ria-e-disciplinas)
 
+- [Google Machine Learning Education](https://developers.google.com/machine-learning)
+
 - [Marcos Silva - Como se tornar um cientista de dados](https://medium.com/team-data-stone/como-se-tornar-um-cientista-de-dados-bdda45047be1)
 
 - [QUODA - Trilha em Ciência de Dados](https://twitter.com/qodabr/status/1337765125621764098)
@@ -47,7 +49,7 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 
 - [Pesquisa Google Trilha Data Science](https://www.google.com/search?q=trilha+data+science&newwindow=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3i4i1oLr4AhXIJ7kGHWZ0CwIQ_AUoAXoECAEQAw&biw=1920&bih=947#imgrc=Qc4tZToHVK4DAM)
 
--  [CIÊNCIA DE DADOS COM LINGUAGEM R](https://zheage.github.io/Aulas-Ciencia-de-Dados-com-R/introdu%C3%A7%C3%A3o.html)
+- [CIÊNCIA DE DADOS COM LINGUAGEM R](https://zheage.github.io/Aulas-Ciencia-de-Dados-com-R/introdu%C3%A7%C3%A3o.html)
 
 - [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/)
 
