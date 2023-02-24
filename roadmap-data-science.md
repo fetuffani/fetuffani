@@ -51,7 +51,7 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 
 - [CIÊNCIA DE DADOS COM LINGUAGEM R](https://zheage.github.io/Aulas-Ciencia-de-Dados-com-R/introdu%C3%A7%C3%A3o.html)
 
-- [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/)
+- [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) (Abordagem top-down)
 
 - [Data Science Academy - Cursos Gratuitos](https://www.datascienceacademy.com.br/cursosgratuitos)
 
