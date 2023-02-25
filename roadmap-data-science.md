@@ -57,6 +57,8 @@ Montei aqui um compilado baseado em diversas fontes além é claro da minha expe
 
 - [Darthmouth - Introdução a Probabilidade](https://math.dartmouth.edu/~prob/prob/prob.pdf) (Ivy League, o melhor material sobre o assunto que encontrei até hoje)
 
+- [Microsoft Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
+
 #### Livros e artigos
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
